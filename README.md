@@ -43,4 +43,4 @@ We welcome contributions from the community to enhance the functionality of Stab
 MIT License
 
 ## Connect
-- We would be glad if you join our [Discord server.](https://discord.gg/NzaXmfNcDY)
+We would be glad if you join our [Discord server.](https://discord.gg/NzaXmfNcDY)
