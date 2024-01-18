@@ -24,7 +24,7 @@ Stable Speech is an open-source Text To Speech (TTS) application that utilizes t
 </p>
 
 ## Installation
-Simply download the file "Stable Diffusion.html". All the code is included in that single file.
+Simply download the file "Stable Diffusion.html" from the Application folder. All the code for Stable Speech is included in that single file.
 
 ## Features
 
@@ -37,7 +37,7 @@ Simply download the file "Stable Diffusion.html". All the code is included in th
 - **Highlight Spoken Text:** Implement a feature that highlights the text being spoken.
 
 ## Contributions
-We welcome contributions from the community to enhance and expand Stable Speech.
+We welcome contributions from the community to enhance the functionality Stable Speech.
 
 ## License
 MIT License
