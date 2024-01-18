@@ -1,14 +1,14 @@
-# Stable Speech - Open-Source Text To Speech App
+<img src="https://raw.githubusercontent.com/romisyed7/Logos/main/StableSpeechDark.png" alt="Stable Speech Logo" width="30%">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/romisyed7/Logos/main/StableSpeechDark.png" alt="Stable Speech Logo" width="30%">
-</p>
+# Stable Speech - Open-Source Text To Speech App
 
 - [Installation](#installation)
 - [Features](#features)
 - [Planned Features](#planned-features)
 - [Contributions](#contributions)
 - [License](#license)
+
+## Stable Speech is an open-source Text To Speech (TTS) application that utilizes the built-in speech engine in your operating system.
 
 ## Installation
 Simply download the file "Stable Diffusion.html". All the code is included in that single file.
