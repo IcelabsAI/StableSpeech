@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/romisyed7/Logos/main/StableSpeechDark.png" alt="Stable Speech Logo" width="30%">
+<div style="text-align:center;">
+    <img src="https://raw.githubusercontent.com/romisyed7/Logos/main/StableSpeechDark.png" alt="Stable Speech Logo" width="30%">
+</div>
 
 # Stable Speech - Open-Source Text To Speech App
 
