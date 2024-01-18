@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/romisyed7/Logos/main/StableSpeechDark.png" alt="Stable Speech Logo" width="30%">
+  <img src="https://raw.githubusercontent.com/romisyed7/Logos/main/StableSpeechDark.png" alt="Stable Speech Logo" width="50%">
 </p>
 
 # Stable Speech - Open-Source Text To Speech App
@@ -21,7 +21,6 @@ Stable Speech is an open-source Text To Speech (TTS) application that utilizes t
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/IcelabsAI/StableSpeech/main/Screenshots/Light.png" alt="Stable Speech Light Theme" width="45%">
-  
   <img src="https://raw.githubusercontent.com/IcelabsAI/StableSpeech/main/Screenshots/Dark.png" alt="Stable Speech Dark Theme" width="45%">
 </p>
 
