@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/romisyed7/Logos/main/StableSpeechDark.png" alt="Stable Speech Logo" width="50%">
+  <a href="https://www.stablespeech.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/romisyed7/Logos/main/StableSpeechDark.png" alt="Stable Speech Logo" width="40%">
 </p>
 
 # Stable Speech - Open-Source Text To Speech App
