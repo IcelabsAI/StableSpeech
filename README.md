@@ -37,7 +37,7 @@ Simply download the file "Stable Diffusion.html" from the Application folder. Al
 - **Highlight Spoken Text:** Implement a feature that highlights the text being spoken.
 
 ## Contributions
-We welcome contributions from the community to enhance the functionality Stable Speech.
+We welcome contributions from the community to enhance the functionality of Stable Speech.
 
 ## License
 MIT License
