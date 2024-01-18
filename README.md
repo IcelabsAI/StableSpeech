@@ -1,6 +1,6 @@
-# Stable Speech - Open-Source Text To Speech App
+<img src="https://raw.githubusercontent.com/romisyed7/Logos/main/StableSpeechDark.png" alt="Stable Speech Logo" width="30%">
 
-![Stable Speech Logo](https://raw.githubusercontent.com/romisyed7/Logos/main/StableSpeechDark.png)
+# Stable Speech - Open-Source Text To Speech App
 
 - [Installation](#installation)
 - [Features](#features)
