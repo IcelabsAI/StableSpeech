@@ -172,7 +172,7 @@
   </div>
 
   <div id="bottom-text">
-    <p>We ❤️ open source. Made by <a href="http://twitter.com/icelabsai" target="_blank">Icelabs</a>.</p>
+    <p>We ♥️ open source. Made by <a href="http://twitter.com/icelabsai" target="_blank">Icelabs</a>.</p>
   </div>
 
   <script>
@@ -202,16 +202,15 @@
       }
     }
 
-    function toggleDarkMode() {
-      const body = document.body;
-      const currentTheme = body.getAttribute('data-theme');
-      const newTheme = currentTheme === 'light' ? 'dark' : 'light';
-      body.setAttribute('data-theme', newTheme);
+function toggleDarkMode() {
+  const body = document.body;
+  const newTheme = body.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+  body.setAttribute('data-theme', newTheme);
 
-      // Update dark mode toggle button text
-      const darkModeToggle = document.getElementById('dark-mode-toggle');
-      darkModeToggle.innerText = newTheme === 'light' ? '🌑' : '☀️';
-    }
+  // Update dark mode toggle button text
+  const darkModeToggle = document.getElementById('dark-mode-toggle');
+  darkModeToggle.innerText = newTheme === 'light' ? '☀️' : '🌑';
+}
   </script>
 </body>
 
