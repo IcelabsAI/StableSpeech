@@ -44,4 +44,5 @@ We welcome contributions from the community to enhance the functionality of Stab
 MIT License
 
 ## Custom Development
-We develop custom SaaS apps, AI apps, mobile and web apps. Reach us at icelabsgroup@gmail.com or visit sites.so to get a free quote.
+We develop custom SaaS apps, AI apps, mobile and web apps.
+Reach us at icelabsgroup@gmail.com or visit [Sites](https://www.sites.so) to get a free quote.
