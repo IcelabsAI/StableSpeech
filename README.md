@@ -12,7 +12,7 @@
 - [Planned Features](#planned-features)
 - [Contributions](#contributions)
 - [License](#license)
-- [Connect](#connect)
+- [Custom Development](#custom-development)
 
 ## Introduction
 Stable Speech is an open-source Text To Speech (TTS) application that utilizes the built-in speech engine in your operating system.
