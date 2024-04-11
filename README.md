@@ -43,5 +43,5 @@ We welcome contributions from the community to enhance the functionality of Stab
 ## License
 MIT License
 
-## Connect
-We would be glad if you join our [Discord server.](https://discord.gg/NzaXmfNcDY)
+## Custom Development
+We develop custom SaaS products, AI apps, mobile and web apps. Reach us at mailto:icelabsgroup@gmail.com
